@@ -11,7 +11,7 @@ const products = [
     },
     {
         id: 2,
-        name: 'Mystic Oud',
+        name: '(Club de nuit) Mystic Oud',
         price: '$80.00',
         image: 'https://via.placeholder.com/300x200?text=Mystic+Oud'
     },
